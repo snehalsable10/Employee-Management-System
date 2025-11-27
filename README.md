@@ -1,1 +1,1 @@
-Employee management system using PHP
+Event management system using PHP
